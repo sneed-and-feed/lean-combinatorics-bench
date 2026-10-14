@@ -1,0 +1,37 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "lean-combinatorics-bench: Lean 4 Combinatorics, Spectral Graph Theory & Additive Number Theory Benchmark",
+  "identifier": "lean-combinatorics-bench",
+  "codeRepository": "https://github.com/sneed-and-feed/lean-combinatorics-bench",
+  "version": "1.0.0",
+  "description": "An open-source, sovereign Lean 4 formal mathematics benchmark dataset comprising 95 machine-checked formalizations across Discrete & Convex Geometry, Extremal Graph Theory, Spectral Graph Theory, Additive Combinatorics, Algebraic & Enumerative Combinatorics, Arithmetic Dynamics & Number Theory, and Algebraic Topology & Monodromy, pinned to Mathlib v4.34.0-rc1.",
+  "license": "https://spdx.org/licenses/CC0-1.0.html",
+  "programmingLanguage": [
+    "Lean 4",
+    "Python 3"
+  ],
+  "runtimePlatform": "leanprover/lean4:v4.34.0-rc1",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Noah",
+      "familyName": "Cohen"
+    }
+  ],
+  "keywords": [
+    "Lean 4",
+    "Mathlib",
+    "Formal Mathematics",
+    "Automated Theorem Proving",
+    "Combinatorics",
+    "Spectral Graph Theory",
+    "Additive Combinatorics",
+    "Extremal Graph Theory",
+    "Discrete Geometry",
+    "Algebraic Topology",
+    "Benchmark Dataset"
+  ],
+  "datePublished": "2026-10-13",
+  "developmentStatus": "active"
+}

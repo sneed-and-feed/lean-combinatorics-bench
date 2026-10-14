@@ -1,0 +1,29 @@
+{
+  "total_problems": 95,
+  "total_theorem_declarations": 2687,
+  "total_challenge_loc": 9452,
+  "total_solution_loc": 41502,
+  "overall_expansion_ratio": 4.3908,
+  "total_tactic_invocations": 23978,
+  "zero_sorry_verified_count": 95,
+  "zero_sorry_all": true,
+  "by_source_split": {
+    "lean-theorems-1": 45,
+    "lean-theorems-2": 25,
+    "lean-theorems-3": 25
+  },
+  "by_category": {
+    "Discrete & Convex Geometry": 24,
+    "Extremal Graph Theory": 20,
+    "Additive Combinatorics": 15,
+    "Spectral Graph Theory": 15,
+    "Algebraic Topology & Monodromy": 10,
+    "Algebraic & Enumerative Combinatorics": 9,
+    "Arithmetic Dynamics & Number Theory": 2
+  },
+  "by_tier_split": {
+    "tier1_discrete_geometry_extremal": 44,
+    "tier2_algebraic_spectral_graph": 24,
+    "tier3_additive_combinatorics_zeta": 27
+  }
+}
